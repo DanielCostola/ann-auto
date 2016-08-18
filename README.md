@@ -11,3 +11,5 @@ Then a metod that used matlab code was tried to achive what the graphical interf
 This was so that new data can be inputed and give you an accueate result. 
 
 The matlab coded method was then used to calculate the result for jus a single input.
+
+The matlab coded method used to calculate the result for jus a single input was optimised and commented on.
