@@ -1,3 +1,4 @@
+%this program creates a ANN
 x=0:0.01:100;
 y=x.^2;
 net=newff(minmax(x),[24 1], {'logsig','purelin'},'trainlm');
